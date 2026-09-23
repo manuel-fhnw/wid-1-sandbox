@@ -1,0 +1,11 @@
+#Elternelement{
+    border: 1px solid black;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between
+}
+
+.Kind{
+    border: 1px solid red;
+    width: 100px;
+}

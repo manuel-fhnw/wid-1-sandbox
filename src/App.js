@@ -1,7 +1,11 @@
+import "./style.css"
+
 export default function App() {
   return (
-    <div>
-      <div>Hallo Mars</div>
+    <div id="Elternelement">
+      <div className="Kind">Kind</div>
+      <div className="Kind">Kind</div>
+      <div className="Kind">Kind</div>
     </div>
   );
 }
